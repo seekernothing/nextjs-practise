@@ -7,6 +7,6 @@ export const productFilter = async ({
   console.log(slug);
 
   return <div>
-    
+    <h1>Product Filter</h1>
   </div>;
 };
