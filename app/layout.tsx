@@ -35,6 +35,10 @@ export default function RootLayout({
             <Link href={"/products"}>products</Link>
 
             <Link href={"/dashboard"}>Dashboard</Link>
+            <Link href={"/error-example"}>Error-Example</Link>
+            <Link href={"/loading"}>Loading</Link>
+            <Link href={"/profile"}>Profile</Link>
+            <Link href={"/about"}>About</Link>
           </nav>
         </header>
         {children}
